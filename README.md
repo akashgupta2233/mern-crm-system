@@ -1,4 +1,4 @@
-# 📇 CRM Web App (MERN Stack + Figma Design)
+# 📇 CRM Web App (MERN Stack)
 
 A complete full-stack CRM (Customer Relationship Management) web application built using the **MERN stack** — MongoDB, Express.js, React.js, Node.js — with a modern frontend architecture.
 
