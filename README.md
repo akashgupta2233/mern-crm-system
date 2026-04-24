@@ -143,7 +143,7 @@ crm-web-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hemantsinghdev/crm-system
+git clone https://github.com/akashgupta2233/crm-system
 cd crm-web-app
 ```
 
